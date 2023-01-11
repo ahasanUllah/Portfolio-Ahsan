@@ -5,6 +5,9 @@ import Work4 from '../../assets/Work4.png';
 import Work5 from '../../assets/Work5.png';
 import Work6 from '../../assets/Work6.png';
 import Work7 from '../../assets/Work7.png';
+import Work8 from '../../assets/Work8.png';
+import Work9 from '../../assets/Work9.png';
+import Work10 from '../../assets/Work10.png';
 export const projectsData = [
    {
       id: 1,
@@ -69,6 +72,34 @@ export const projectsData = [
       category: 'javascript',
       liveWebsite: 'https://silver-youtiao-99af10.netlify.app/',
       githubClient: 'https://github.com/ahasanUllah/Speed-typer',
+      githubServer: '',
+   },
+
+   {
+      id: 8,
+      image: Work8,
+      title: 'Best Five',
+      category: 'javascript',
+      liveWebsite: 'https://selectbestfive.netlify.app/',
+      githubClient: 'https://github.com/programming-hero-web-course2/best-five-dom-assignment-ahasanUllah',
+      githubServer: '',
+   },
+   {
+      id: 9,
+      image: Work9,
+      title: 'Best Five',
+      category: 'css',
+      liveWebsite: 'https://ahasanullah.github.io/Future-learn/',
+      githubClient: 'https://github.com/ahasanUllah/Future-learn',
+      githubServer: '',
+   },
+   {
+      id: 10,
+      image: Work10,
+      title: 'Donate Today',
+      category: 'css',
+      liveWebsite: 'https://ahasanullah.github.io/Donate-Today/',
+      githubClient: 'https://github.com/ahasanUllah/Donate-Today',
       githubServer: '',
    },
 ];
